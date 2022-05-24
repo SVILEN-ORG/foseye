@@ -69,8 +69,6 @@ Tue May 24 18:17:04 UTC 2022|camera1.cfg|motionDetectAlarm event on 1 (http://xx
 Tue May 24 18:17:45 UTC 2022|camera1.cfg|motionDetectAlarm event on 1 (http://xx.xx.xx.xx:88), triggering Motioneye (http://xx.xx.xx.xx:7999) alarm !
 ==> logs/foshi.log <==
 Tue May 24 18:17:02 UTC 2022|camera1.cfg|Initiating monitoring for 1 (http://http://xx.xx.xx.xx:88) via Motioneye (http://xx.xx.xx.xx:7999), appending to log file: logs/camera1.cfg.log
-single_monitor.sh: line 94: [: ==: unary operator expected
-single_monitor.sh: line 94: [: ==: unary operator expected
 ```
 
 # Links:
