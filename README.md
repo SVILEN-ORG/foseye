@@ -72,3 +72,8 @@ Tue May 24 18:17:02 UTC 2022|camera1.cfg|Initiating monitoring for 1 (http://htt
 single_monitor.sh: line 94: [: ==: unary operator expected
 single_monitor.sh: line 94: [: ==: unary operator expected
 ```
+
+# Links:
+* DockerHub with a pre-build image: https://hub.docker.com/repository/docker/svilendotorg/foseye
+
+    docker pull svilendotorg/foseye:latest
